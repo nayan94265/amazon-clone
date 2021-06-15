@@ -1,0 +1,29 @@
+.checkoutproduct{
+padding: 5px;
+display: flex;
+background-color: white;
+margin: 4px;
+zoom: normal;
+
+}
+
+.checkoutproduct_image{
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+    margin: 6px;
+}
+
+.removeproduct_but{
+    background-color: #f0c14b;
+    border: 1px solid;
+
+
+}
+
+.checkoutproduct_title{
+    font-size: 17px;
+
+    font-weight: 800;
+    
+}
